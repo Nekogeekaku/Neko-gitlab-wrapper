@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neko-gitlab-wrapper"
+description="A python wrapper for the GitLab API"
+readme = "README.rst"
+authors = [
+    {name = "Thierry CARRICABURU"}
+]
+version="0.1"
